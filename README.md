@@ -28,6 +28,7 @@ It has certain parts like entering data ,showing data, deleting data, updating d
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/73063420/204787979-b9dfc6eb-fe2f-4c38-aa7b-655fe4f8f591.png)
     
+# Step-6: Exit the System
 ![Screenshot (25)](https://user-images.githubusercontent.com/73063420/204787869-2067d7e5-b70d-4074-99e7-a4f0591c7043.png)
 
 
