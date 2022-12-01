@@ -1,12 +1,14 @@
-    This is a Student Database Management System This system is based upon basic concepts of #C++, #objectorientedprogramming Oriented Programming and #dbms.
+#Student Database Management System
     
-    It has certain parts like entering data ,showing data, deleting data, updating data.
     
-    Main Menu
+This is a Student Database Management System This system is based upon basic concepts of #C++, #objectorientedprogramming Oriented Programming and #dbms.
+It has certain parts like entering data ,showing data, deleting data, updating data.
+    
+#Main Menu
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/73063420/204787577-bb7a4296-6ee2-4eee-a6c2-1a2fe116e2d5.png)
 
-
+#Step-1: Insertion
     
     
 ![Screenshot (19)](https://user-images.githubusercontent.com/73063420/204787785-9c28c71b-891e-4aad-812e-380178c97aff.png)
